@@ -9,3 +9,4 @@ Key highlights:
 Data Pipeline: Seamless integration between Snowflake and AWS.
 Data Processing: Extracted and analyzed Sum of High and Low Values using cloud resources.
 Data Insights: Top 2500 data points visualized for trend analysis.
+[Download Project Documentation (PDF)](./Data visualization.pdf)
